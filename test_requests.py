@@ -7,7 +7,7 @@ headers = {
 }
 
 def send_url():
-    parm = {"query": "测试工程师",
+    parm = {"query": "测试",
             "city": "101280100"
             }
     url = "https://www.zhipin.com/job_detail/"
